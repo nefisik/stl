@@ -1,7 +1,3 @@
-3PQKGwS15FuuyHwDFhE1Zb7BPKA9uWLyivg
-//seed:
-daring club clap blast error name kick enemy naive jump husband artist reopen skate embark
-
 #include <iostream>
 #include <stdlib.h>
 #include <string>
@@ -110,6 +106,6 @@ int main() {
 	auto checkStruct = Complex<StructWithoutDefaultConstructor>::value;
 	auto checkChar = Complex<void>::value;
 
-	
+
 	std::cout<<checkInt<<" "<<checkStruct<<" "<<checkChar<<std::endl;
 }*/
