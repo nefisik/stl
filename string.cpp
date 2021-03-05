@@ -124,7 +124,7 @@ int main() {
     str3 = "Str3";
     String str4,str5,str8,str9,str10;
 
-    str4 = str1 + str2 + "typidor" + str3 + "qwerty" + "uiop" + str5;
+    str4 = str1 + str2 + "one" + str3 + "qwerty" + "uiop" + str5;
     cout<<str4<<endl;
 
     str8 = (str2<str3)?(str2):(str3);
